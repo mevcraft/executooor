@@ -1,0 +1,10 @@
+[package]
+name = "executooor"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Rust encoding library for the Executooor MEV batch executor contract"
+
+[dependencies]
+alloy-primitives = "1"
+alloy-sol-types = "1"
